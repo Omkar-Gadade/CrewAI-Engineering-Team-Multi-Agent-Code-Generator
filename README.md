@@ -61,7 +61,7 @@ CrewAI_Project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Omkar-Gadade/CrewAI-Engineering-Team-Multi-Agent-Code-Generator.git
 cd CrewAI_Project
 ```
 
@@ -182,9 +182,5 @@ Omkar Gadade
 (Data Science & AI Enthusiast)
 
 ---
-
-## ⭐ If you found this useful
-
-Give this repo a ⭐ on GitHub!
-
----
+## License
+MIT License
