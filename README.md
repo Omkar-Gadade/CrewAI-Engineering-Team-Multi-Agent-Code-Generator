@@ -159,13 +159,6 @@ Defined in :
 
 ---
 
-## ⚠️ Notes
-
-* Gradio v4+ is used (no `gr.Output`)
-* Use `uv` instead of `pip` for dependency management
-* Some dependencies (like LanceDB) may not work on Windows
-
----
 
 ## 🚀 Future Improvements
 
