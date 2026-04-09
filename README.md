@@ -34,7 +34,7 @@ Each step uses outputs from the previous one.
 ```
 CrewAI_Project/
 │
-├── engineering_team/src
+├── src/engineering_team
 │   ├── crew.py              # Defines agents and workflow
 |   ├── main.py              # Entry point
 │   ├── config/
